@@ -1,0 +1,19 @@
+{
+    "name": "t/t",
+    "type": "n",
+    "autoload": {
+        "psr-4": {
+            "T\\T\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dmitriy Iskra",
+            "email": "dmitriyiskra@mail.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "^11.1"
+    }
+}
